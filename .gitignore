@@ -6,7 +6,7 @@ dev
 *.pth
 data/mpii/images
 !data/mpii/mean.pth.tar
-*.json
+#*.json
 *debug*
 *.idea/*
 experiments
